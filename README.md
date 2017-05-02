@@ -1,5 +1,7 @@
 # related-query-context
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/related-query-context.svg)](https://greenkeeper.io/)
+
 Query Context Modules for the Related ORM
 
 
